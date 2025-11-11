@@ -1,4 +1,4 @@
-# ridex
+# Ridex
 
 A new Flutter project.
 
